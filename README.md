@@ -37,6 +37,7 @@ After adding ISS to your project, you will also need to update your main Info.pl
 	<string>cydia</string>
 	<string>undecimus</string>
 	<string>sileo</string>
+	<string>zbra</string>
 </array>
 ```  
 
@@ -118,9 +119,12 @@ Yes, please! If you have a better idea or you just want to improve this project,
 * [fotiDim](https://github.com/fotiDim) for adding new file paths to check
 * [gcharita](https://github.com/gcharita) for adding the Swift Package Manager support
 * [rynaardb](https://github.com/rynaardb) for creating the `amIJailbrokenWithFailedChecks()` method
+* [undeaDD](https://github.com/undeaDD) for various ISS improvements
 
 ## TODO
 * [ ] File integrity checks
+
+* [ ] Research Installer5 and Zebra Package Manager detection ( Cydia Alternatives )
 
 * [x] Deny debugger
 
